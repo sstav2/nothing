@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'PixelOperator' ;
+    src: url(other/font/PixelOperatorMono-Bold.ttf);
+
+}
+
+@font-face {
+    font-family: "Helmet-Regular";
+    src: url(other/font/Helmet-Regular.ttf);
+}
+
+@font-face {
+    font-family: "lucon";
+    src: url(other/font/lucon.ttf);
+}
+
+@font-face {
+    font-family: "ms-sans-serif-1";
+    src: url(other/font/ms-sans-serif-1.ttf);
+}
+
+@font-face {
+    font-family: "garamond";
+    src: url(other/font/EBGaramond-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "garamond2";
+    src: url(other/font/EBGaramond-VariableFont_wght.ttf);
+}
+
+.h {
+	font-family: garamond ;
+	text-shadow: 0px 0px 100px #17A66F;
+	color: #1795A6;
+	background: #E4FBF2;
+	width: 45%;
+	font-size: 50px;
+	padding-left: 2vw;
+
+}
+.lt {
+
+}
+
+<!--174EA6 blue--> 
+<!--fitting green 17A66F>
